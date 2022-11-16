@@ -14,4 +14,4 @@ if [[ $keeppd = "Y" || $keeppd = "y" ]] ; then
         fi
         else echo "Password saving skipped."
 fi
-echo -e "\nBy created berry."
+echo -e "\nBy created 0v3rdrive."
