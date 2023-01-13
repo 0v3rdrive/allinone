@@ -1,0 +1,17 @@
+[2K.hta                    [Status: 403, Size: 281, Words: 21, Lines: 11, Duration: 103ms][0m
+[2K.hta$extensions         [Status: 403, Size: 292, Words: 21, Lines: 11, Duration: 2290ms][0m
+[2K                        [Status: 302, Size: 0, Words: 1, Lines: 1, Duration: 2291ms][0m
+[2K.htpasswd$extensions    [Status: 403, Size: 297, Words: 21, Lines: 11, Duration: 3299ms][0m
+[2K.htpasswd               [Status: 403, Size: 286, Words: 21, Lines: 11, Duration: 4302ms][0m
+[2K.htaccess$extensions    [Status: 403, Size: 297, Words: 21, Lines: 11, Duration: 4303ms][0m
+[2K.htaccess               [Status: 403, Size: 286, Words: 21, Lines: 11, Duration: 4304ms][0m
+[2Kcache                   [Status: 301, Size: 307, Words: 20, Lines: 10, Duration: 102ms][0m
+[2Kcgi-bin/                [Status: 403, Size: 285, Words: 21, Lines: 11, Duration: 103ms][0m
+[2Kcore                    [Status: 301, Size: 306, Words: 20, Lines: 10, Duration: 102ms][0m
+[2Kcustom                  [Status: 301, Size: 308, Words: 20, Lines: 10, Duration: 103ms][0m
+[2Kindex.php               [Status: 302, Size: 0, Words: 1, Lines: 1, Duration: 103ms][0m
+[2Kjavascript              [Status: 301, Size: 312, Words: 20, Lines: 10, Duration: 102ms][0m
+[2Kphpmyadmin              [Status: 301, Size: 312, Words: 20, Lines: 10, Duration: 105ms][0m
+[2Kserver-status           [Status: 403, Size: 290, Words: 21, Lines: 11, Duration: 103ms][0m
+[2Ksite                    [Status: 301, Size: 306, Words: 20, Lines: 10, Duration: 102ms][0m
+[2Ktemplates               [Status: 301, Size: 311, Words: 20, Lines: 10, Duration: 102ms][0m
