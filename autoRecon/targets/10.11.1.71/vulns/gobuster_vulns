@@ -1,8 +1,0 @@
-http://10.11.1.71:80/templates (Status: 200)
-http://10.11.1.71:80/site (Status: 200)
-http://10.11.1.71:80/core (Status: 200)
-http://10.11.1.71:80/custom (Status: 200)
-http://10.11.1.71:80/cache (Status: 200)
-http://10.11.1.71:80/javascript (Status: 403)
-http://10.11.1.71:80/phpmyadmin (Status: 200)
-http://10.11.1.71:80/server-status (Status: 403)
