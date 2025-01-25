@@ -1,7 +1,7 @@
 # Evil-WinRM Dockerfile
 
 # Base image
-FROM ruby:latest
+FROM ruby:3.3.7-bookworm
 
 # Credits & Data
 LABEL \
